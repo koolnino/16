@@ -1,4 +1,0 @@
-appid = "poster.app"
-name = "Poster Viewer"
-apptype = "gui"
-entry = "src/main.c"
